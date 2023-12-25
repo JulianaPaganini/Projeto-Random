@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+body{
+    background-color: black;
+    font-weight: 700;
+    line-height: 37px;
+   
+
+}
+.image{
+
+    width: 250px;
+    height: 200px;
+    margin-left: 650px;
+    margin-top: 120px;
+    
+}
+
+h2{
+
+    color:white;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    margin-left: 650px;
+    margin-bottom: 29px;
+}
+
+.input-number1{
+ margin-left:520px;
+ padding-left: 22px;
+ color: white;
+  width: 250px;
+ height: 74px;
+ background: rgb(53, 53, 52); 
+ border: 1px solid rgb(53, 53, 52);
+ border-radius: 14px;
+ font-weight: 500;
+ font-size: 30px;
+ line-height: 46px;
+ opacity: 0.7;
+}
+
+.input-number{
+
+    
+    
+    padding-left: 22px;
+    color: white;
+    margin-left: 60px;
+    width: 250px;
+    height: 74px;
+    background: rgb(53, 53, 52); 
+    border: 1px solid rgb(53, 53, 52);
+    border-radius: 14px;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 46px;
+    opacity: 0.7;
+
+
+
+}
+
+
+
+
+button{
+
+    width: 342px;
+    height: 72px;
+    margin-left: 620px;
+    margin-top: 75px;
+    border: 1px solid #AEC346;
+    border-radius: 10px;
+    background: #AEC346;
+    box-shadow: 0 18px 40px 0 #AEC34659;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 2.5px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
